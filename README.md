@@ -4,3 +4,4 @@
 * git branch
 * git checkout
 * git merge
+* git init
